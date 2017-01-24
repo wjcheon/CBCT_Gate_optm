@@ -20,6 +20,9 @@ Fig.1 Geometry of simulation: Cylinderical phamtom and detector
 <img src = https://github.com/wjcheon/CBCT_Gate_optm/blob/master/rays.png />
 Fig.2 Snapshot of simulation when some particles were irradiated to detector.  
 
+<img src = https://github.com/wjcheon/CBCT_Gate_optm/blob/master/projection_image.jpg />
+Fig.3 Projection image generated from cone-beam CT simulation (#primary:10E9) .  
+
 
 
 date: 2017.1.12  
