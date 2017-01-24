@@ -27,8 +27,8 @@ Fig.3 Projection image generated from cone-beam CT simulation (#primary:10E9) .
 
 
 
-date: 2017.1.12  
-All rights of "ConebeamCT-Gate" reserved to **OpenGate Collaboration** and **wjcheon**.  
+date: 2017.1.24  
+All rights of "ConebeamCT-Gate" reserved to **OpenGate Collaboration** and **wjcheon** and **evjoo**.  
 
 If you have any question for this code, please send the e-mail to me.  
      
